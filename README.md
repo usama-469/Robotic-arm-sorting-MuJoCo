@@ -1,11 +1,8 @@
 # Vision-based pick-and-place sorting in MuJoCo
 
-<!--
-  VIDEO PLACEHOLDER
-  Open this file in the GitHub web editor and drag your .mp4 onto the line below.
-  GitHub uploads it and replaces the line with a user-attachments link that plays inline.
-  Delete this comment afterwards.
--->
+<p align="center">
+  <img src="assets/demo.gif" width="720" alt="Full sorting run">
+</p>
 
 > **Video goes here**
 
