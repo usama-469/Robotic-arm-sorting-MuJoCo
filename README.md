@@ -4,7 +4,6 @@
   <img src="assets/demo.gif" width="720" alt="Full sorting run">
 </p>
 
-> **Video goes here**
 
 A Franka Panda clears a cluttered table and sorts every object into the bin for its class. It only gets an RGB-D image from a fixed camera. It has no access to the simulator's object poses.
 
